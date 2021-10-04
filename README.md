@@ -4,7 +4,7 @@
 
 ![Bacteria by filterforge.com](Images/2616410.gif)
 
-In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity in my Github Pages](https://gabbyolivares.github.io/Plotly-Challenge/), which catalogs the microbes that colonize human navels.
+In this assignment, I built an interactive dashboard to explore the [Belly Button Biodiversity in my Github Pages](https://marieprosper77.github.io/Plotly-Challenge/), which catalogs the microbes that colonize human navels.
 
 Results, are given by Subject ID and the dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
